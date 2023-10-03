@@ -1,5 +1,7 @@
 # wasender_panel
 WASender - сервер Whatsapp и массовый отправитель (SAAS)
+<a href="https://t.me/fradddyrad"><img src="https://github.com/moneyrobot2023/wasender_panel/blob/main/5.jpg" alt="WaSender 2023 купить"></a>
+
 
 <a href="https://DobroFile.ru/softnull"><img src="https://github.com/moneyrobot2023/wasender_panel/blob/main/1.jpg" alt="Магазин программного обеспечения"></a>
 
