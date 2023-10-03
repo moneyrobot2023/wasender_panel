@@ -1,6 +1,6 @@
 # wasender_panel
 WASender - сервер Whatsapp и массовый отправитель (SAAS)
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+<p align="center"><a https://t.me/fradddyrad" target="_blank"><img src="https://github.com/moneyrobot2023/wasender_panel/blob/main/1.jpg" width="400" alt="купить скрипт"></a></p>
 
 <p align="center">
 <a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
