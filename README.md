@@ -7,7 +7,7 @@ WASender - сервер Whatsapp и массовый отправитель (SAA
 
 <a href="https://DobroFile.ru/softnull"><img src="https://github.com/moneyrobot2023/wasender_panel/blob/main/2.jpg" alt="купить скрипт"></a>
 <a href="https://DobroFile.ru/softnull"><img src="https://github.com/moneyrobot2023/wasender_panel/blob/main/3.jpg" alt="WaSender 2023"></a>
-<a href="https://t.me/fradddyrad"><img src="https://github.com/moneyrobot2023/wasender_panel/blob/main/4.gif" alt="WaSender 2023 купить"></a>
+<a href="https://t.me/fradddyrad"><img src="https://github.com/moneyrobot2023/wasender_panel/blob/main/6.gif" alt="WaSender 2023 купить"></a>
 
 ## О скрипте
 
@@ -35,4 +35,4 @@ WASender - это маркетинговая платформа WhatsApp, соз
 -
 режима GUI.
 -
-<a href="https://t.me/fradddyrad"><img src="https://github.com/moneyrobot2023/wasender_panel/blob/main/4.gif" alt="WaSender 2023 купить"></a>
+<a href="https://t.me/fradddyrad"><img src="https://github.com/moneyrobot2023/wasender_panel/blob/main/6.gif" alt="WaSender 2023 купить"></a>
