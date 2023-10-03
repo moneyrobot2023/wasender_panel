@@ -8,6 +8,10 @@ WASender - сервер Whatsapp и массовый отправитель (SAA
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
+<a href="https://DobroFile.ru/softnull"><img src="https://github.com/moneyrobot2023/wasender_panel/blob/main/1.jpg" alt="Магазин программного обеспечения"></a>
+
+<a href="https://DobroFile.ru/softnull"><img src="https://github.com/moneyrobot2023/wasender_panel/blob/main/2.jpg" alt="купить скрипт"></a>
+<a href="https://DobroFile.ru/softnull"><img src="https://github.com/moneyrobot2023/wasender_panel/blob/main/2.jpg" alt="WaSender 2023"></a>
 
 ## О Laravel
 
