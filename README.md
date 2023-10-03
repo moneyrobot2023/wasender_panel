@@ -3,10 +3,10 @@ WASender - сервер Whatsapp и массовый отправитель (SAA
 <p align="center"><a https://t.me/fradddyrad" target="_blank"><img src="https://github.com/moneyrobot2023/wasender_panel/blob/main/5.jpg" width="400" alt="купить скрипт"></a></p>
 
 <p align="center">
-<a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
+<a href="https://codecanyon.net/item/wasender-whatsapp-server-and-bulk-sender-saas/44936224"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
+<a href="https://codecanyon.net/item/wasender-whatsapp-server-and-bulk-sender-saas/44936224"><img src="https://codecanyon.net/item/wasender-whatsapp-server-and-bulk-sender-saas/44936224" alt="Total Downloads"></a>
+<a href="https://codecanyon.net/item/wasender-whatsapp-server-and-bulk-sender-saas/44936224"><img src="https://codecanyon.net/item/wasender-whatsapp-server-and-bulk-sender-saas/44936224" alt="Latest Stable Version"></a>
+<a href="https://codecanyon.net/item/wasender-whatsapp-server-and-bulk-sender-saas/44936224"><img src="https://codecanyon.net/item/wasender-whatsapp-server-and-bulk-sender-saas/44936224" alt="License"></a>
 </p>
 <a href="https://DobroFile.ru/softnull"><img src="https://github.com/moneyrobot2023/wasender_panel/blob/main/1.jpg" alt="Магазин программного обеспечения"></a>
 
